@@ -1,0 +1,15 @@
+{
+    "name": "Pip",
+    "description": "Let me out of here!",
+    "image": "ipfs://Qma5CJHiN9S6LXBkkg56F3bquCvK7wYJurwQ9LDWyzM14g",
+    "attributes": [
+        {
+            "trait-type": "TurtleStage",
+            "value": "Pip"
+        },
+        {
+            "trait-type": "Age",
+            "value": "One Day"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Hatchling",
+    "description": "Hello World!",
+    "image": "ipfs://Qmdfjm7E74yMX961ooUcVVVkbwYZwBbJ2uL3yRtwjDQii3",
+    "attributes": [
+        {
+            "trait-type": "TurtleStage",
+            "value": "Hatchling"
+        },
+        {
+            "trait-type": "Age",
+            "value": "One Day"
+        }
+    ]
+}
